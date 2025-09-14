@@ -1,0 +1,24 @@
+# Виртуальное окружение, созданное uv
+.venv/
+venv/
+
+# Файлы с чувствительными данными (пароли, ключи)
+.env
+.env.local
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Логи и данные
+logs/
+*.log
+data/
+*.csv
